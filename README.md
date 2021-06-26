@@ -4,7 +4,7 @@ Simple Streamlit app to demonstrate PSR applications in evaluating portfolio man
 
 ### Public App Hosting
 
-...currently not publicly hosted.
+A version is available at [Heroku](https://prob-sharpe-app.herokuapp.com/).
 
 You can run the app locally via:
 ```sh

@@ -6,10 +6,11 @@ Simple Streamlit app to demonstrate PSR applications in evaluating portfolio man
 
 ...currently not publicly hosted.
 
-You can run the app via:
+You can run the app locally via:
 ```sh
 streamlit run psr_streamlit_app.py
 ```
+...both "psr_streamlit_app.py" and "PSR.py" should be in the same directory.
 
 ### References
 

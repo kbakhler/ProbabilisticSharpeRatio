@@ -6,6 +6,8 @@ Simple Streamlit app to demonstrate PSR applications in evaluating portfolio man
 
 A version is available at [Heroku](https://prob-sharpe-app.herokuapp.com/).
 
+### Running Streamlit App Locally
+
 You can run the app locally via:
 ```sh
 streamlit run psr_streamlit_app.py

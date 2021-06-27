@@ -2,6 +2,8 @@
 
 Simple Streamlit app to demonstrate PSR applications in evaluating portfolio managers' performance.
 
+![](demo/streamlit-psr_app.gif)
+
 ### Public App Hosting
 
 A version is available at [Heroku](https://prob-sharpe-app.herokuapp.com/).

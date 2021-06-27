@@ -18,4 +18,4 @@ streamlit run psr_streamlit_app.py
 
 Bailey, David H. and López de Prado, Marcos, *The Sharpe Ratio Efficient Frontier*, 2012: available at [SSRN](https://ssrn.com/abstract=1821643).
 
-@rubenbriones has a GitHub repository with other PSR examples at https://github.com/rubenbriones/Probabilistic-Sharpe-Ratio
+[Rubén Briones](https://github.com/rubenbriones/Probabilistic-Sharpe-Ratio) has a GitHub repository with additional PSR examples.

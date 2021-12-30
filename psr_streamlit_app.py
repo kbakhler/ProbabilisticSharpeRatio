@@ -266,7 +266,7 @@ with ref_expander:
     st.markdown("""> *While not directly linked to this dashboard or ${PSR}$, a
     good overview of various methods for Sharpe Ratio estimation,
     annualization, and estimation of its other statistical properties...listing
-    various and often compeating underlying assumptions.*""")
+    various and often competing underlying assumptions.*""")
 
 
 # start of custom function for stdev_of_obsSR
